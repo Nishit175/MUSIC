@@ -1,0 +1,12 @@
+Privacy Policy: [MUSIC]
+1. Data Collection
+Minimalism: We believe in your privacy. [Bot Name] only collects the bare minimum data required to function.
+Identifiers: We store Discord-provided IDs (User IDs, Server IDs, and Channel IDs) to save your custom settings and playlists.
+No Recording: We never record, store, or transmit your voice or audio data.
+2. Data Usage
+Your data is used strictly to provide the music service. We do not sell or share your information with any third parties.
+3. Data Storage & Deletion
+Data is stored securely on our hosting servers.
+Your Control: You can request to have your data deleted at any time by [contacting us/using a specific command like !delete-data]. If the bot is removed from a server, all associated server data is permanently purged.
+4. Third-Party Services
+The bot may interact with external APIs (like YouTube or Spotify) to fetch music. No personal Discord data is sent to these services
